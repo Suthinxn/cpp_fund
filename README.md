@@ -9,8 +9,7 @@
 
 1. Compile a C++ file
 - Use `g++` to compile a C++ file:
-- 
-`g++ main.cpp`
+  `g++ main.cpp`
 
 - Compile and Set an File Name:
 
