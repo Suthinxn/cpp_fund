@@ -9,11 +9,12 @@
 
 1. Compile a C++ file
 - Use `g++` to compile a C++ file:
+  
   `g++ main.cpp`
 
 - Compile and Set an File Name:
 
-`g++ main.cpp -o my_program`
+  `g++ main.cpp -o my_program`
 
 2. Run the Compiled file
 
