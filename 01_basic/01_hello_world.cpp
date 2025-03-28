@@ -6,7 +6,6 @@ int main() {
 }
 
 /*
-
 cmd compile
     g++ filename
     ต้องการใส่ชื่อ
@@ -15,5 +14,4 @@ cmd compile
 
     ต้องการ Run
     ./<name_compile>
-
 */
